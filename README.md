@@ -5,11 +5,8 @@ PetroVision is a cutting-edge web platform designed to revolutionize the petrole
 
 ## 🌟 Features
 - **Dynamic Dashboard** 📊: Interactive charts and data visualizations powered by Recharts.
-- **Real-time Updates** ⏳: Live industry news and market price updates.
-- **Testimonials & Reviews** 💬: User feedback with engaging UI animations.
-- **Company Portfolio** 🏢: Showcasing major industry players and partners.
 - **AI-powered Chatbot** 🤖: Intelligent assistance for customer inquiries.
-- **Secure Authentication** 🔐: Login and user management with Firebase/Auth.
+- **Dummy-Project**
 
 ## 🛠️ Tech Stack
 PetroVision is built using modern web technologies to ensure high performance and scalability:
