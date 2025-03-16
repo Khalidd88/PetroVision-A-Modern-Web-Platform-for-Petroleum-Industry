@@ -18,37 +18,6 @@ PetroVision is built using modern web technologies to ensure high performance an
   - React.js ⚛️ (Component-based UI)
   - Tailwind CSS 🎨 (Utility-first styling)
   - AOS (Animate on Scroll) 🚀 (Smooth animations)
-- **Backend:**
-  - Node.js 🌐
-  - Express.js ⚡
-  - MongoDB 🍃 (NoSQL database)
-- **Authentication & Security:**
-  - Firebase Auth 🔐
-  - JWT (JSON Web Token) 🛡️
-- **Other Libraries & Tools:**
-  - Recharts 📈 (Data visualization)
-  - React Icons 🎭 (Beautiful icons)
-  - Axios 🌐 (API requests)
-
-## 📁 Project Structure
-```
-📂 petrovision/
- ├── 📂 public/              # Static assets
- ├── 📂 src/
- │   ├── 📂 components/      # Reusable UI components
- │   ├── 📂 pages/           # Main pages (Home, Dashboard, Contact, etc.)
- │   ├── 📂 assets/          # Images, icons, and media files
- │   ├── 📂 utils/           # Utility functions
- │   ├── 📂 hooks/           # Custom React hooks
- │   ├── 📂 context/         # Global state management
- │   ├── 📂 services/        # API and backend services
- │   ├── App.js             # Root component
- │   ├── index.js           # Entry point
- ├── .gitignore             # Ignored files in Git
- ├── package.json           # Dependencies & scripts
- ├── tailwind.config.js     # Tailwind CSS configuration
- ├── README.md              # Documentation
-```
 
 ## ⚡ Installation & Setup
 Follow these steps to run the project locally:
@@ -77,15 +46,7 @@ npm run build
 ## 🌍 Deployment
 PetroVision is optimized for deployment on cloud platforms. You can deploy using:
 - **Vercel** → `vercel --prod`
-- **Netlify** → `netlify deploy`
-- **AWS / Firebase Hosting**
-
-## 🎯 Future Enhancements
-- ✅ AI-driven predictive analysis for oil price trends
-- ✅ Advanced security features with OAuth integration
-- ✅ Multi-language support for global users
-- ✅ Integration with IoT devices for real-time field monitoring
-
+  
 ## 🤝 Contributing
 We welcome contributions from the community! To contribute:
 1. Fork the repository 🍴
@@ -99,9 +60,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 For inquiries and collaborations, reach out via:
-- 📧 Email: khalidluhurpambudi@gmail.com
-- 🌐 Website: [PetroVision Official](https://www.petrovision.com)
-- 🔗 LinkedIn: [PetroVision LinkedIn](https://linkedin.com/khalid-luhur-pambudi)
+- 📧 Email: khalidluhurp@gmail.com
+- 🌐 Instagram: [Author Account](https://www.instagram.com/oceannn.19)
+- 🔗 LinkedIn: [Author LinkedIn](https://www.linkedin.com/in/khalid-luhur-pambudi)
 
 ---
 💡 *Transforming the Future of Petroleum with Technology!* 🌍💡
