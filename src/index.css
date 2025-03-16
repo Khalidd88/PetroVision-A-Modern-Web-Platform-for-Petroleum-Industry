@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+  background: url('./assets/oil.jpg') no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+html, body {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+
